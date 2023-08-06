@@ -1,6 +1,6 @@
 # Nacos漏洞脚本-
 Nacos漏洞检测批量脚本
-# NACOSexp
+# NACOS scan
 
 NACOS漏洞利用脚本，检测默认弱口令，未授权，以及任意用户添加
 使用方式：
